@@ -19,17 +19,6 @@ I'm an Electronics and Communication Engineering student interested in Embedded 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Embedded Systems & Communication
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![S32K144](https://img.shields.io/badge/NXP_S32K144-Automotive_MCU-00599C?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I2C-444444?style=for-the-badge)
-![CAN](https://img.shields.io/badge/CAN_Bus-444444?style=for-the-badge)
-![PWM](https://img.shields.io/badge/PWM-444444?style=for-the-badge)
-![ADC](https://img.shields.io/badge/ADC-Analog_Digital_Conversion-6A5ACD?style=for-the-badge)
-![UART](https://img.shields.io/badge/UART-Serial_Communication-008080?style=for-the-badge)
-![SPI](https://img.shields.io/badge/SPI-Serial_Peripheral_Interface-6A5ACD?style=for-the-badge)
-![Timers](https://img.shields.io/badge/Timers-Microcontroller_Peripherals-2E8B57?style=for-the-badge)
-
 ### Tools & Development Environments
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
