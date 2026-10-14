@@ -30,6 +30,7 @@ I'm an Electronics and Communication Engineering student interested in Embedded 
 ![Proteus](https://img.shields.io/badge/Proteus-006699?style=for-the-badge)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![S32 Design Studio](https://img.shields.io/badge/S32_Design_Studio-0076CE?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Areas of Interest
 Embedded Software • Automotive Systems • Artificial Intelligence • Internet of Things
@@ -48,10 +49,10 @@ Embedded Software • Automotive Systems • Artificial Intelligence • Interne
 - Participate in hackathons and collaborative technical projects.
 - Continuously improve my coding, debugging, and engineering skills.
 
-## 🤝 Connect With Me
+## Connect With Me
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/esther-jeba-385918380/)
-- GitHub: [My GitHub Profile](https://github.com/EstherJ07/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstherJ07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 ---
 
