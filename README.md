@@ -22,11 +22,13 @@ I'm a third-year Electronics and Communication Engineering student passionate ab
 ![CAN](https://img.shields.io/badge/CAN_Bus-444444?style=for-the-badge)
 ![PWM](https://img.shields.io/badge/PWM-444444?style=for-the-badge)
 
-### Tools
+### Tools & Development Environments
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil-394049?style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/Proteus-006699?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![S32 Design Studio](https://img.shields.io/badge/S32_Design_Studio-0076CE?style=for-the-badge)
 
 ### Areas of Interest
 Embedded Software • Automotive Systems • Artificial Intelligence • Internet of Things
