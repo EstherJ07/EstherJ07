@@ -1,3 +1,5 @@
+<img width="2068" height="760" alt="embedded-banner" src="https://github.com/user-attachments/assets/4bfbb050-a628-4051-baaa-06d21cd5a8b1" />
+
 # Hi, I'm Esther Jeba J 👋
 
 ### ECE Student | Embedded Systems | AI & IoT
