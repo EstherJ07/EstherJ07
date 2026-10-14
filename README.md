@@ -2,7 +2,9 @@
 
 # Hi, I'm Esther Jeba J 👋
 
-### ECE Student | Embedded Systems | AI & IoT
+## Welcome to my GitHub!
+
+Exploring embedded systems, writing firmware, and building practical projects.
 
 ## About Me
 
