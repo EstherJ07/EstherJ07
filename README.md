@@ -55,5 +55,9 @@ Embedded Software • Automotive Systems • Artificial Intelligence • Interne
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 ---
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstherJ07&show_icons=true&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EstherJ07&layout=compact&hide_border=true&theme=default)
 
 *Learning, building, and improving one project at a time.*
