@@ -39,6 +39,23 @@ I'm an Electronics and Communication Engineering student interested in Embedded 
 ![S32 Design Studio](https://img.shields.io/badge/S32_Design_Studio-0076CE?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+### Embedded Systems
+
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![S32K144](https://img.shields.io/badge/NXP_S32K144-0071C5?style=for-the-badge)
+![S32 Design Studio](https://img.shields.io/badge/S32_Design_Studio-00599C?style=for-the-badge)
+
+### Communication Protocols & Peripherals
+
+![CAN](https://img.shields.io/badge/CAN-00599C?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-6A5ACD?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-008080?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-FF8C00?style=for-the-badge)
+![ADC](https://img.shields.io/badge/ADC-2E8B57?style=for-the-badge)
+![PWM](https://img.shields.io/badge/PWM-8A2BE2?style=for-the-badge)
+![Timers](https://img.shields.io/badge/Timers-555555?style=for-the-badge)
+
 ### Areas of Interest
 Embedded Software • Automotive Systems • Artificial Intelligence • Internet of Things
 ## 🌱 What I'm Working On
