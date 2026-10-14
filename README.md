@@ -2,14 +2,15 @@
 
 ### ECE Student | Embedded Systems | AI & IoT
 
-I'm a third-year Electronics and Communication Engineering student passionate about building practical solutions using embedded systems, automotive technologies, Artificial Intelligence, and the Internet of Things.
+## About Me
 
-- 🔭 Exploring automotive embedded systems and ECU software
-- 🌱 Learning Embedded C, microcontrollers, and CAN communication
-- ⚙️ Interested in hardware-software integration and intelligent automation
-- 🏆 First Place — Circuitrix, Eternix National-Level Technical Symposium
-- 🎯 Goal: Build reliable, innovative solutions to real-world engineering problems
+I'm an Electronics and Communication Engineering student interested in Embedded Systems and Automotive Software Development.
 
+- Currently learning Embedded C and microcontroller programming
+- Exploring STM32, S32 Design Studio, and automotive ECU development
+- Learning communication protocols such as CAN, UART, and I2C
+- Interested in developing practical, real-world embedded solutions
+- Continuously improving my programming and problem-solving skills
 ## 🛠️ Tech Stack
 
 ### Programming Languages
