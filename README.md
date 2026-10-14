@@ -10,18 +10,26 @@ I'm a third-year Electronics and Communication Engineering student passionate ab
 - 🏆 First Place — Circuitrix, Eternix National-Level Technical Symposium
 - 🎯 Goal: Build reliable, innovative solutions to real-world engineering problems
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Languages:** C, Python
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Embedded Systems:** GPIO, Timers, PWM, I2C, Sensor Interfacing
+### Embedded Systems & Communication
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-444444?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN_Bus-444444?style=for-the-badge)
+![PWM](https://img.shields.io/badge/PWM-444444?style=for-the-badge)
 
-**Automotive:** CAN Communication, ECU Fundamentals
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil-394049?style=for-the-badge)
+![Proteus](https://img.shields.io/badge/Proteus-006699?style=for-the-badge)
 
-**Tools:** Git, GitHub, Keil, Proteus, TSMaster
-
-**Interests:** AI, IoT, Computer Vision, Embedded Software
-
+### Areas of Interest
+Embedded Software • Automotive Systems • Artificial Intelligence • Internet of Things
 ## 🌱 What I'm Working On
 
 - Strengthening my problem-solving skills using C and Python.
